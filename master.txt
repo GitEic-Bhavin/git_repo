@@ -1,3 +1,15 @@
 Switch from experiment.txt to main branch.
 create master.txt and commit this.
 git switch experiment_branch
+This will create confict merge bcz, the file on master branch is master.txt
+When you switch to confict_branch this master.txt will also be there in confict_brach.
+
+so same content of master.txt will be there.
+
+When you edit master.txt file in confict_branch.
+the new content will be added.
+
+When you try to merge conflict_branch to master branch.
+Content of master.txt file will not be same for master branch and confilct_branch.
+
+So, it will create confict.
