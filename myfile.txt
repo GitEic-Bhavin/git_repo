@@ -1,6 +1,2 @@
 One commit
 Two commit
-Three  commit
-Fourth commit
-Fifth commit
-Sixth commit
